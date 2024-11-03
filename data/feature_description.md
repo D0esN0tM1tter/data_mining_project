@@ -7,7 +7,7 @@ This dataset contains the following data points related to mental health in the 
 - **Gender**: The gender of the respondent.
 - **Country**: The country of residence.
 
-## Additional Variables
+## Additional Variables and their explanation
 
 - **State**: If you live in the United States, which state or territory do you reside in?
 - **Self-employed**: Are you self-employed?
